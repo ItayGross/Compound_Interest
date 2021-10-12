@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Compound_Interest</string>
+
+    <string-array name="time_arrays">
+        <item>Monthly</item>
+        <item>Yearly</item>
+    </string-array>
+</resources>
